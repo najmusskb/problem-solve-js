@@ -7,12 +7,10 @@ function factoriyal(number) {
     return fact;
 
 }
-
 var firstfactoriyal = 20;
 var result = factoriyal(firstfactoriyal); {
     console.log(result);
 }
-
 
 var firstfactoriyal = 10;
 var result = factoriyal(firstfactoriyal); {
