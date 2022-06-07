@@ -17,11 +17,6 @@ const myfactoriyal = reverse(5);
 
 console.log(myfactoriyal);
 
-
-
-
-
-
 function reverse(num) {
 
     let factorial = 1;
@@ -40,13 +35,6 @@ function reverse(num) {
 const myyyfactoriyal = reverse(3);
 
 console.log(myyyfactoriyal);
-
-
-
-
-
-
-
 
 
 function reverse(num) {

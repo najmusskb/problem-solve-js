@@ -7,6 +7,7 @@ function factoriyal(number) {
     return fact;
 
 }
+
 var firstfactoriyal = 20;
 var result = factoriyal(firstfactoriyal); {
     console.log(result);
