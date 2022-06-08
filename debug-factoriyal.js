@@ -8,9 +8,9 @@ function getfactoriyal(number) {
     }
     return factoriyal;
 }
+
 const getmyfactorial = getfactoriyal(8);
 console.log(getmyfactorial);
-
 
 
 
@@ -27,5 +27,6 @@ function factoriyalnumber(num) {
     }
     return factoriyal;
 }
+
 const getmynumber = factoriyalnumber(8);
 console.log(getmynumber);
