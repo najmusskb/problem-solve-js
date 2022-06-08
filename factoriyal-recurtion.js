@@ -1,5 +1,4 @@
-//factoriyal-recurtion-function
-
+//factoriyal-recursion-function
 // 1! = 1
 // 2! = 2 * 1
 // 3! = 3 * 2 * 1
@@ -7,7 +6,9 @@
 // 5! = 5*4*3 * 2 * 1
 
 
+
 // formula is n! = n(n-1)!
+
 
 // 4! = 4 * 3!
 // 5! = 5 * 4!
@@ -30,10 +31,9 @@ function factoriyal(n) {
     return n * factoriyal(n - 1);
 }
 
+
 const myFactoriyal = factoriyal(4);
 console.log(myFactoriyal);
-
-
 
 
 
@@ -46,7 +46,6 @@ function factoriyal(n) {
 
 const Myfactoriyal = factoriyal(3);
 console.log(Myfactoriyal);
-
 
 
 function factoriyal(n) {
@@ -62,11 +61,6 @@ console.log(mYYfactoriyal);
 
 
 
-
-
-
-
-
 function factoriyal(n) {
     if (n == 1) {
         return 1;
@@ -76,5 +70,3 @@ function factoriyal(n) {
 
 const myfactoriyaL = factoriyal(1);
 console.log(myfactoriyaL);
-
-
