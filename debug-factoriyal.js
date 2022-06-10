@@ -1,6 +1,5 @@
 // debug function . bar bar console diye value check kora ;;;
 
-
 function getfactoriyal(number) {
     let factoriyal = 1;
     for (let i = 1; i <= number; i++) {
@@ -11,9 +10,6 @@ function getfactoriyal(number) {
 
 const getmyfactorial = getfactoriyal(8);
 console.log(getmyfactorial);
-
-
-
 
 
 

@@ -2,6 +2,7 @@
 // positive to negetive number;
 // absulute number
 
+
 // *
 // * *
 // * * *
@@ -33,13 +34,11 @@ console.log(Outputnumber);
 
 
 
-// round 
+// round   
 
 const nu = 26.6;
 const OutpUtnumber = Math.round(nu);
 console.log(OutpUtnumber);
-
-
 
 // random 
 
