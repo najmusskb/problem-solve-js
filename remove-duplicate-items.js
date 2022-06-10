@@ -1,26 +1,25 @@
 
-// const names = ['abul', 'babul', 'jabul', 'dabul', 'fabul', 'cabul'];
+const names = ['abul', 'babul', 'jabul', 'dabul', 'fabul', 'cabul'];
 
-// function removeduplicate(names) {
+function removeduplicate(names) {
 
-//     const unique = [];
-//     for (let i = 0; i < names.length; i++) {
-//         const element = names[i];
-//         console.log(element);
-
-
-//     }
-
-// }
-
-// const uniquenames = removeduplicate(names);
-// console.log(uniquenames);
+    const unique = [];
+    for (let i = 0; i < names.length; i++) {
+        const element = names[i];
+        console.log(element);
 
 
+    }
+
+}
+
+const Uniquenames = removeduplicate(names);
+console.log(Uniquenames);
 
 
 
 
+// _______________________________________________________________
 
 
 
